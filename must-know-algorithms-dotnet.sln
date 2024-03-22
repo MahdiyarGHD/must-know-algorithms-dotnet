@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jump-Search-Algorithm", "Ju
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insertion-Sort-Algorithm", "Insertion-Sort-Algorithm\Insertion-Sort-Algorithm.csproj", "{94752406-5B27-41F7-93A3-01631041DA4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick-Sort-Algorithm", "Quick-Sort-Algorithm\Quick-Sort-Algorithm.csproj", "{F7A42D15-844D-42C2-9B3E-15F9CF196713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quick-Sort-Algorithm", "Quick-Sort-Algorithm\Quick-Sort-Algorithm.csproj", "{F7A42D15-844D-42C2-9B3E-15F9CF196713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble-Sort-Algorithm", "Bubble-Sort-Algorithm\Bubble-Sort-Algorithm.csproj", "{5FD10247-DA33-4E34-87A0-A6A3DB471C1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F7A42D15-844D-42C2-9B3E-15F9CF196713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7A42D15-844D-42C2-9B3E-15F9CF196713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7A42D15-844D-42C2-9B3E-15F9CF196713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD10247-DA33-4E34-87A0-A6A3DB471C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD10247-DA33-4E34-87A0-A6A3DB471C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD10247-DA33-4E34-87A0-A6A3DB471C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD10247-DA33-4E34-87A0-A6A3DB471C1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
